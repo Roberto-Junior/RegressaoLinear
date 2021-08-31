@@ -1,1 +1,1 @@
-# RegressaoLinear
+# Para visualizar corretamente este notebook no site nbviewer, clique neste link: [](https://nbviewer.jupyter.org/github/Roberto-Junior/RegressaoLinear/blob/main/1-RegressaoLinearSimples.ipynb)
